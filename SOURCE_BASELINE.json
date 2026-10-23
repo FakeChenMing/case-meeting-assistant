@@ -1,0 +1,28 @@
+{
+  "release": "0.3.0-preview",
+  "derived_from": "0.2.4",
+  "capture_source": "0.2.1 build 5",
+  "allowlist": [
+    "server.py",
+    "engine_v2.py",
+    "ledger.py",
+    "store.py",
+    "dispatcher.py",
+    "rpc.py",
+    "model_settings.py",
+    "session_lifecycle.py",
+    "index.html"
+  ],
+  "source_hashes": {
+    "server.py": "b32d74d71ff29b7bd8609afaf12deeeaf6bfec9150b494ff4e51430f1fbcbdcc",
+    "engine_v2.py": "d877cbb28e76fc57bf0573c9e14d30e09da7dc6abcc46ba948e3ea2aeaa06e91",
+    "ledger.py": "45514b516844c39724a129d186875467975fd87b131b0c0a89da91b8b7335f05",
+    "store.py": "cd4f5de4a24a3840a74c525b39ce8b9a74dbcb897371bcfcf57e92b8e11d7d8d",
+    "dispatcher.py": "c1c6af29aecabd66c2204aa332800b26047dbf6c428f0a91b99241ca75b8f133",
+    "rpc.py": "7a8b32f69eee5e6d30d7369b6d2bd66076d2daedecdac4eef6ee5c26fc00ba43",
+    "model_settings.py": "5293eab7b65e88337e5e52aeeb923548c4c65ed2bd42da593799d34c5bb8f9f8",
+    "session_lifecycle.py": "e076cbf690218429246affff13d4333fde0db136b2e6c67ea0799ecc9f3fa307",
+    "index.html": "4e4a6acfcaa6b71c6fb99f4d91a784d72a60f992375933e1dbf7dd87748abc4e"
+  },
+  "contains_cases_audio_credentials": false
+}

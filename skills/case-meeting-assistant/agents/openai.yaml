@@ -1,0 +1,4 @@
+interface:
+  display_name: "案件沟通实时辅助"
+  short_description: "单机或双机完成会前准备、实时转写追问、纠错与会后交接，保留来源和处理历史"
+  default_prompt: "请使用 $case-meeting-assistant 检查本机环境，按单机或双机模式部署并演示案件沟通实时辅助。"
